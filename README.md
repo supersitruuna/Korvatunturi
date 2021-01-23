@@ -1,2 +1,4 @@
 # Korvatunturi
-A SQL-database created for Santa Clause
+A SQL-database created for Santa Claus.
+
+This database was created as the final task for a class about SQL databases in the fall of 2019. The task was to make a database about a topic of our choice and to write a report describing the different attributes of the database. The work was done in a three person group by [Sanna Herrala](https://github.com/supersitruuna), Elli Huovinen and [Noora Kuorikoski](https://github.com/nooraelina). As the task was completed close to the holidays, the chosen subject for the task was a database for Santa Claus to help him keep track of all the kids, gifts and elves he needs to deal with. The database has 12 tables in total and satisfies the third normal form. 
